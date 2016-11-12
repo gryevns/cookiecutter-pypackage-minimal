@@ -6,7 +6,6 @@ setuptools.setup(
     url="{{ cookiecutter.package_url }}",
 
     author="{{ cookiecutter.author_name }}",
-    author_email="{{ cookiecutter.author_email }}",
 
     description="{{ cookiecutter.package_description }}",
     long_description=open('README.rst').read(),
